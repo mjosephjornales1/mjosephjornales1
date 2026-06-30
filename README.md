@@ -1,77 +1,39 @@
-# React + TypeScript + Vite
+# Hi, I'm Mark Joseph Jornales 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Senior Software Engineer** · Philippines, Metro Manila
 
-Currently, two official plugins are available:
+I build exceptional digital experiences that are fast, accessible, visually appealing, and responsive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Crafting digital experiences since 2017.
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### About me
 
-Note: This will impact Vite dev & build performances.
+- Senior software engineer with 9+ years of experience
+- Web, mobile, backend, DevOps, and application security
+- Currently at **Aurum Platform** — gold-backed digital assets & Web3
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### Tech stack
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+**Frontend:** React, TypeScript, Next.js, Tailwind  
+**Mobile:** Flutter, React Native, Swift, Kotlin  
+**Backend:** Node.js, PHP, Laravel, NestJS  
+**DevOps:** AWS, Docker, CI/CD, GitHub Actions  
+**Other:** Web3, Solidity, Application Security
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+---
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Connect
 
-```
+- 📧 [mjoseph.jornales1@gmail.com](mailto:mjoseph.jornales1@gmail.com)
+- 💼 LinkedIn: `add your URL`
+- 🌐 Portfolio: `add your live site URL when deployed`
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Pinned repos
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
+Pin your best projects on your profile: **Profile → Customize your pins**
