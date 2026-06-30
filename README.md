@@ -10,19 +10,12 @@ Crafting digital experiences since 2017.
 
 ### GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=mjosephjornales1&show_icons=true&theme=dark&bg_color=0a0a0b&title_color=d4a054&text_color=a1a1aa&icon_color=d4a054&border_color=27272a"
-    alt="Mark Joseph Jornales's GitHub stats"
-  />
+<!-- https://github.com/anuraghazra/github-readme-stats#quick-tip-align-the-cards -->
+<a href="https://github.com/mjosephjornales1">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mjosephjornales1&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjosephjornales1&layout=compact&theme=dark&bg_color=0a0a0b&title_color=d4a054&text_color=a1a1aa&icon_color=d4a054&border_color=27272a"
-    alt="Top languages"
-  />
+<a href="https://github.com/mjosephjornales1">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjosephjornales1&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ---
@@ -45,6 +38,15 @@ Crafting digital experiences since 2017.
 
 ---
 
+### Pinned Projects
+
+<!-- https://github.com/anuraghazra/github-readme-stats#pinning-repositories -->
+<a href="https://github.com/mjosephjornales1/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjosephjornales1&repo=portfolio&theme=radical" />
+</a>
+
+---
+
 ### Connect
 
 - 📧 [mjoseph.jornales1@gmail.com](mailto:mjoseph.jornales1@gmail.com)
@@ -54,6 +56,4 @@ Crafting digital experiences since 2017.
 
 ---
 
-### Pinned repos
-
-Pin your best projects on your profile: **Profile → Customize your pins**
+<sub>Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
