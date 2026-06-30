@@ -8,6 +8,25 @@ Crafting digital experiences since 2017.
 
 ---
 
+### GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mjosephjornales1&show_icons=true&theme=dark&bg_color=0a0a0b&title_color=d4a054&text_color=a1a1aa&icon_color=d4a054&border_color=27272a"
+    alt="Mark Joseph Jornales's GitHub stats"
+  />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjosephjornales1&layout=compact&theme=dark&bg_color=0a0a0b&title_color=d4a054&text_color=a1a1aa&icon_color=d4a054&border_color=27272a"
+    alt="Top languages"
+  />
+</a>
+
+---
+
 ### About me
 
 - Senior software engineer with 9+ years of experience
@@ -29,6 +48,7 @@ Crafting digital experiences since 2017.
 ### Connect
 
 - 📧 [mjoseph.jornales1@gmail.com](mailto:mjoseph.jornales1@gmail.com)
+- 🐙 [GitHub](https://github.com/mjosephjornales1)
 - 💼 LinkedIn: `add your URL`
 - 🌐 Portfolio: `add your live site URL when deployed`
 
