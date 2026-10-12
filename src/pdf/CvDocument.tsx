@@ -1,5 +1,6 @@
 import {
   Document,
+  Link,
   Page,
   Text,
   View,
@@ -38,6 +39,13 @@ const styles = StyleSheet.create({
     color: '#64748b',
     lineHeight: 1.35,
     marginBottom: 2,
+  },
+  contactLink: {
+    fontSize: 8,
+    color: '#0ea5e9',
+    lineHeight: 1.35,
+    marginBottom: 2,
+    textDecoration: 'none',
   },
   section: {
     marginBottom: 12,
@@ -131,6 +139,11 @@ export function CvDocument() {
               {phone}
             </Text>
           ))}
+          {profile.links.github && (
+            <Link src={profile.links.github} style={styles.contactLink}>
+              {profile.links.github.replace(/^https:\/\//, '')}
+            </Link>
+          )}
         </View>
 
         <View style={styles.section}>

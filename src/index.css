@@ -227,6 +227,18 @@ a {
   max-width: var(--content-max);
 }
 
+.intro__github {
+  display: inline-block;
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.intro__github:hover {
+  text-decoration: underline;
+}
+
 /* Sections */
 .section {
   width: 100%;

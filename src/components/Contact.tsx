@@ -37,6 +37,21 @@ export function Contact() {
           <dt>Location</dt>
           <dd>{profile.location}</dd>
         </div>
+        {profile.links.github && (
+          <div className="contact__row">
+            <dt>GitHub</dt>
+            <dd>
+              <a
+                href={profile.links.github}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="contact__link-item"
+              >
+                {profile.links.github.replace(/^https:\/\//, '')}
+              </a>
+            </dd>
+          </div>
+        )}
       </dl>
       <p className="contact__message">{profile.availability}</p>
     </section>

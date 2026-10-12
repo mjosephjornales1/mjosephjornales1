@@ -14,7 +14,9 @@ export const profile = {
   ],
   phones: ['+639166269399', '+639122145221'],
   phone: '+639122145221',
-  links: {} as { github?: string; linkedin?: string },
+  links: {
+    github: 'https://github.com/mjosephjornales1',
+  } as { github?: string; linkedin?: string },
   aboutHeadline: 'Crafting digital experiences since 2017',
   summary: [
     'Dedicated and highly skilled programmer with a passion for solving complex problems through innovative coding solutions. I develop scalable and efficient applications across web, mobile, backend, and DevOps automation for reliable deployments, with strong knowledge in application security and system vulnerability assessment.',
