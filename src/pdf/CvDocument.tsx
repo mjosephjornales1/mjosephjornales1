@@ -13,7 +13,6 @@ const styles = StyleSheet.create({
     fontFamily: 'Helvetica',
     fontSize: 9,
     color: '#1e293b',
-    lineHeight: 1.45,
   },
   header: {
     marginBottom: 14,
@@ -25,16 +24,19 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontFamily: 'Helvetica-Bold',
     color: '#0f172a',
-    marginBottom: 2,
+    lineHeight: 1.2,
+    marginBottom: 6,
   },
   title: {
     fontSize: 11,
     color: '#0ea5e9',
-    marginBottom: 6,
+    lineHeight: 1.3,
+    marginBottom: 8,
   },
   contactItem: {
     fontSize: 8,
     color: '#64748b',
+    lineHeight: 1.35,
     marginBottom: 2,
   },
   section: {
