@@ -126,8 +126,8 @@ export const profile = {
     {
       company: 'Aurum Platform',
       role: 'Senior Software Engineer',
-      period: '2024 — 2026',
-      duration: '2 years 6 months',
+      period: '2024 — 2025',
+      duration: '1 year',
       duties: [
         'Develop and maintain the Aurum Platform web application — a gold-backed digital asset platform bridging traditional bullion banking with blockchain technology.',
         'Build and integrate blockchain and Web3 features, including smart contract interactions, wallet connectivity, and on-chain token swaps.',
