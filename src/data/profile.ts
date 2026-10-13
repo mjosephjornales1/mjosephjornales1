@@ -33,6 +33,7 @@ export const profile = {
     { skill: 'HTML5', years: '6 years' },
     { skill: 'CSS (Bootstrap / Tailwind / SCSS)', years: '5 years' },
     { skill: 'PHP (Laravel / CodeIgniter)', years: '2 years' },
+    { skill: 'Python', years: '1 year (2024 — 2025)' },
     { skill: 'Mobile Apps (React Native / Flutter / Native)', years: '3 years' },
     { skill: 'Database Management (MySQL / MSSQL Server)', years: '4 years' },
     { skill: 'Version Control (GitLab / GitHub)', years: '9 years' },
